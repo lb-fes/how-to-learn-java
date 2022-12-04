@@ -1,2 +1,2 @@
-# how-to-study-java
-如何学习 Java
+[stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
+
